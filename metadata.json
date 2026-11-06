@@ -1,0 +1,10 @@
+{
+  "name": "Remix F.R.I.D.A.Y.",
+  "description": "A futuristic, voice-activated AI assistant featuring a sleek HUD, smart tools, and witty, efficient conversational support for you.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
